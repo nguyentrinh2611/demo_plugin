@@ -1,6 +1,6 @@
 library demo_plugin_ios;
 
-import 'package:demo_plugin_platform_interface/demo_plugin.dart';
+import 'package:demo_plugin_platform_interface/demo_plugin_platform_interface.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
