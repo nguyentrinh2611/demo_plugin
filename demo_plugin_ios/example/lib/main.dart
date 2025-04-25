@@ -1,4 +1,4 @@
-import 'package:demo_plugin/demo_plugin_ios.dart';
+import 'package:demo_plugin_ios/demo_plugin_ios.dart';
 import 'package:flutter/material.dart';
 import 'dart:async';
 
