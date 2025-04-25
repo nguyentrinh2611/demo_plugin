@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
-import '../platform_interface/demo_plugin_platform_interface.dart';
+import '../platform_interface/platform_interface_demo_plugin.dart';
 
 /// An implementation of [DemoPluginPlatformInterface] that uses method channels.
 class MethodChannelDemoPlugin extends DemoPluginPlatformInterface {

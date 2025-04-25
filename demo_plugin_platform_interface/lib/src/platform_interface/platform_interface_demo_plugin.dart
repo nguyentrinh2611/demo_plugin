@@ -1,6 +1,6 @@
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
-import '../method_channel/demo_plugin_method_channel.dart';
+import '../method_channel/method_channel_demo_plugin.dart';
 
 abstract class DemoPluginPlatformInterface extends PlatformInterface {
   /// Constructs a DemoPluginPlatform.
