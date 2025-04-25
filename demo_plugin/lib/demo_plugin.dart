@@ -1,4 +1,4 @@
-import 'package:demo_plugin_platform_interface/demo_plugin.dart';
+import 'package:demo_plugin_platform_interface/demo_plugin_platform_interface.dart';
 import 'package:flutter/foundation.dart';
 
 /// An implementation of [DemoPluginPlatform] that uses method channels.
