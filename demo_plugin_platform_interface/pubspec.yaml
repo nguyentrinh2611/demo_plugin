@@ -1,6 +1,7 @@
 name: demo_plugin_platform_interface
-description: "A new Flutter plugin project."
-version: 0.0.1
+description: A common platform interface for the demo_plugin plugin.
+repository: https://github.com/nguyentrinh2611/demo_plugin/tree/main/demo_plugin_platform_interface
+version: 1.0.0
 homepage:
 
 environment:
