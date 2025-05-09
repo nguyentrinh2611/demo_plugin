@@ -49,13 +49,21 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.8"
-  demo_plugin:
+  demo_plugin_android:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.0.1"
+    version: "1.0.0"
+  demo_plugin_platform_interface:
+    dependency: transitive
+    description:
+      name: demo_plugin_platform_interface
+      sha256: "557d4bd10a187839bae49436d5a3ca01b90c0e97583532060deea6015f9f2d18"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   fake_async:
     dependency: transitive
     description:

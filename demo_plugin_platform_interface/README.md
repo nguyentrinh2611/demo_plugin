@@ -1,16 +1,11 @@
-# demo_plugin_example
+# demo_plugin_platform_interface
 
 A common platform interface for the `demo_plugin` plugin.
 
-## Getting Started
+# Usage
 
-This project is a starting point for a Flutter application.
+To implement a new platform-specific implementation of `demo_plugin`,
 
-A few resources to get you started if this is your first Flutter project:
+Extend HLImagePickerPlatform with an implementation that performs the platform-specific behavior.
+When you register your plugin, set the default DemoPluginPlatform by calling DemoPluginPlatform.instance = DemoPluginPlatform().
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
