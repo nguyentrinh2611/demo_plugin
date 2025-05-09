@@ -1,7 +1,7 @@
 name: demo_plugin_android
-description: "A new Flutter plugin project."
-publish_to: "none"
-version: 0.0.1
+description: Android implementation of the demo_plugin plugin.
+repository: https://github.com/nguyentrinh2611/demo_plugin/tree/main/demo_plugin_android
+version: 1.0.0
 homepage:
 
 environment:
