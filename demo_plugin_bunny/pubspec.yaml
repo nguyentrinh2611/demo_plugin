@@ -1,6 +1,7 @@
-name: demo_plugin
-description: "A new Flutter plugin project."
-version: 0.0.1
+name: demo_plugin_bunny
+description: Initial demo_plugin_bunny package for Flutter
+repository: https://github.com/nguyentrinh2611/demo_plugin/tree/main/demo_plugin_bunny
+version: 1.0.0
 homepage:
 
 environment:

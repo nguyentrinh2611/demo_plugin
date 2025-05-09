@@ -44,23 +44,32 @@ packages:
   demo_plugin_android:
     dependency: "direct main"
     description:
-      path: "../demo_plugin_android"
-      relative: true
-    source: path
-    version: "0.0.1"
+      name: demo_plugin_android
+      sha256: "469caace98f284d562bafd4386a0988a9f05bdc4f7376b899e3f7ce4c7b4a786"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   demo_plugin_ios:
     dependency: "direct main"
     description:
-      path: "../demo_plugin_ios"
-      relative: true
-    source: path
-    version: "0.0.1"
+      name: demo_plugin_ios
+      sha256: "9709a6b8c93952b0f98b9f75b31a61fd400b76e37b56b35ec4fc4e916ec66fac"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   demo_plugin_platform_interface:
     dependency: "direct main"
     description:
+<<<<<<< HEAD:demo_plugin/pubspec.lock
       path: "../demo_plugin_platform_interface"
       relative: true
     source: path
+=======
+      name: demo_plugin_platform_interface
+      sha256: "557d4bd10a187839bae49436d5a3ca01b90c0e97583532060deea6015f9f2d18"
+      url: "https://pub.dev"
+    source: hosted
+>>>>>>> dev-pub-publish:demo_plugin_bunny/pubspec.lock
     version: "1.0.0"
   fake_async:
     dependency: transitive
