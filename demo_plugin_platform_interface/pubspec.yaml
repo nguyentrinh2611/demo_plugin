@@ -13,6 +13,7 @@ dependencies:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
   demo_plugin_android: ^1.0.0
+  demo_plugin_ios: ^1.0.0
 
 dev_dependencies:
   flutter_test:
