@@ -1,5 +1,4 @@
 name: demo_plugin
-publish_to: "none"
 description: "A new Flutter plugin project."
 version: 0.0.1
 homepage:
@@ -13,8 +12,7 @@ dependencies:
     sdk: flutter
   demo_plugin_platform_interface: ^1.0.0
   demo_plugin_android: ^1.0.0
-  demo_plugin_ios:
-    path: ../demo_plugin_ios
+  demo_plugin_ios: ^1.0.0
 
 dev_dependencies:
   flutter_test:
