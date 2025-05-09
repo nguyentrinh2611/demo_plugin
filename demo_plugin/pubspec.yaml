@@ -11,10 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  demo_plugin_platform_interface:
-    path: ../demo_plugin_platform_interface
-  demo_plugin_android:
-    path: ../demo_plugin_android
+  demo_plugin_platform_interface: ^1.0.0
+  demo_plugin_android: ^1.0.0
   demo_plugin_ios:
     path: ../demo_plugin_ios
 
